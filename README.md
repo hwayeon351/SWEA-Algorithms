@@ -14,3 +14,5 @@ https://hwayomingdlog.tistory.com/category/코테%20노트/SWEA
 SWEA1952 [모의 SW 역량테스트] 수영장 C++ -> https://hwayomingdlog.tistory.com/2?category=939395
 
 SWEA2115 [모의 SW 역량테스트] 벌꿀채취 C++ -> https://hwayomingdlog.tistory.com/21
+
+SWEA1953 [모의 SW 역량테스트] 탈주범 검거 C++ -> https://hwayomingdlog.tistory.com/22
