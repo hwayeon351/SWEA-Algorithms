@@ -16,3 +16,5 @@ SWEA1952 [모의 SW 역량테스트] 수영장 C++ -> https://hwayomingdlog.tist
 SWEA2115 [모의 SW 역량테스트] 벌꿀채취 C++ -> https://hwayomingdlog.tistory.com/21
 
 SWEA1953 [모의 SW 역량테스트] 탈주범 검거 C++ -> https://hwayomingdlog.tistory.com/22
+
+SWEA5653 [모의 SW 역량테스트] 줄기세포배양 C++ -> https://hwayomingdlog.tistory.com/35
