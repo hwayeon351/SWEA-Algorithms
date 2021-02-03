@@ -18,3 +18,5 @@ SWEA2115 [모의 SW 역량테스트] 벌꿀채취 C++ -> https://hwayomingdlog.t
 SWEA1953 [모의 SW 역량테스트] 탈주범 검거 C++ -> https://hwayomingdlog.tistory.com/22
 
 SWEA5653 [모의 SW 역량테스트] 줄기세포배양 C++ -> https://hwayomingdlog.tistory.com/35
+
+SWEA5658 [모의 SW 역량테스트] 보물상자 비밀번호 C++ -> https://hwayomingdlog.tistory.com/38
