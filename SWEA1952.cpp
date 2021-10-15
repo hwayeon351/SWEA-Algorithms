@@ -1,66 +1,36 @@
 //
 //  main.cpp
-//  SWEA1952
+//  SWEA1952_1
 //
-//  Created by Hwayeon on 2021/01/05.
+//  Created by Hwayeon on 2021/10/15.
 //
 
-#include<iostream>
-
+#include <iostream>
+#include <algorithm>
+#include <string.h>
 using namespace std;
 
-int minimum_cost;
-int cost[4] = {0,};
-int monthly_plan[12] = {0,};
-
-void print_cost_monthly_plan(){
-    for(int i=0; i<4; i++){
-        cout << cost[i] << " ";
-    }
-    cout << "\n";
-    for(int i=0; i<12; i++){
-        cout << monthly_plan[i] << " ";
-    }
-    cout << "\n\n";
-}
-
-void get_minimum_cost(int month, int now_cost){
-    if(month >= 12){
-        if(now_cost < minimum_cost){
-            minimum_cost = now_cost;
-        }
-        return;
-    }
-    
-    if(monthly_plan[month] == 0){
-        get_minimum_cost(month+1, now_cost);
-    }
-    //daily
-    get_minimum_cost(month+1, (cost[0] * monthly_plan[month]) + now_cost);
-
-    //monthly
-    get_minimum_cost(month+1, cost[1] + now_cost);
-
-    //3 monthly
-    get_minimum_cost(month+3, cost[2] + now_cost);
-}
-
-int main(int argc, char** argv)
-{
+int main(int argc, const char * argv[]) {
     int test_case;
     int T;
-    cin>>T;
-    for(test_case = 1; test_case <= T; ++test_case)
-    {
-        for(int i=0; i<4; i++){
-            cin >> cost[i];
+    cin >> T;
+    
+    int dp[13] = {0, };
+    int day, month, three_month, year;
+    int plan[13] = {0, };
+    for(test_case=1; test_case<=T; ++test_case){
+        memset(dp, 0, sizeof(dp));
+        cin >> day >> month >> three_month >> year;
+        for(int m=1; m<=12; m++){
+            cin >> plan[m];
         }
-        for(int i=0; i<12; i++){
-            cin >> monthly_plan[i];
+        dp[1] = min({day*plan[1], month});
+        dp[2] = min({dp[1]+day*plan[2], dp[1]+month});
+        for(int m=3; m<=12; m++){
+            dp[m] = min({dp[m-1]+day*plan[m], dp[m-1]+month, dp[m-3]+three_month});
         }
-        minimum_cost = cost[3];
-        get_minimum_cost(0, 0);
-        cout << "#" << test_case << " " << minimum_cost << endl;
+        if(dp[12] > year) dp[12] = year;
+        cout << "#" << test_case << " " << dp[12] << endl;
     }
     return 0;
 }
