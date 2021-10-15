@@ -23,4 +23,4 @@ SWEA5658 [모의 SW 역량테스트] 보물상자 비밀번호 -> https://hwayom
 
 SWEA4012 [모의 SW 역량테스트] 요리사 -> https://hwayomingdlog.tistory.com/179
 
-SWEA4013 [모의 SW 역량테스트] 특이한 자석 -> 
+SWEA4013 [모의 SW 역량테스트] 특이한 자석 -> https://hwayomingdlog.tistory.com/180
