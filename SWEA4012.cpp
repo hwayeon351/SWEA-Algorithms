@@ -47,7 +47,6 @@ int main(int argc, const char * argv[]) {
     cin >> T;
     for(test_case = 1; test_case<=T; ++test_case){
         answer = 20001;
-        memset(visit, 0, sizeof(visit));
         cin >> N;
         for(int y=1; y<=N; y++){
             for(int x=1; x<=N; x++){
