@@ -22,3 +22,5 @@ SWEA5653 [모의 SW 역량테스트] 줄기세포배양 -> https://hwayomingdlog
 SWEA5658 [모의 SW 역량테스트] 보물상자 비밀번호 -> https://hwayomingdlog.tistory.com/38
 
 SWEA4012 [모의 SW 역량테스트] 요리사 -> https://hwayomingdlog.tistory.com/179
+
+SWEA4013 [모의 SW 역량테스트] 특이한 자석 -> 
