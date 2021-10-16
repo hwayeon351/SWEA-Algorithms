@@ -25,4 +25,4 @@ SWEA4012 [모의 SW 역량테스트] 요리사 -> https://hwayomingdlog.tistory.
 
 SWEA4013 [모의 SW 역량테스트] 특이한 자석 -> https://hwayomingdlog.tistory.com/180
 
-SWEA2382 [모의 SW 역량테스트] 미생물 격리 -> 
+SWEA2382 [모의 SW 역량테스트] 미생물 격리 -> https://hwayomingdlog.tistory.com/181
