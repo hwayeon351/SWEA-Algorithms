@@ -112,6 +112,10 @@ void find_route_col(){
                 }
                 //내리막길
                 else{
+                    if(r+X > N){
+                        check = false;
+                        break;
+                    }
                     for(int rr=r; rr<r+X; rr++){
                         if(area[rr][c] == area[r][c]){
                             visit[rr] = 1;
