@@ -29,4 +29,4 @@ SWEA2382 [모의 SW 역량테스트] 미생물 격리 -> https://hwayomingdlog.t
 
 SWEA4014 [모의 SW 역량테스트] 활주로 건설 -> https://hwayomingdlog.tistory.com/182
 
-SWEA5656 [모의 SW 역량테스트] 벽돌 깨기 -> 
+SWEA5656 [모의 SW 역량테스트] 벽돌 깨기 -> https://hwayomingdlog.tistory.com/183
