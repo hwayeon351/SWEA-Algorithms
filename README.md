@@ -33,4 +33,4 @@ SWEA5656 [모의 SW 역량테스트] 벽돌 깨기 -> https://hwayomingdlog.tist
 
 SWEA4008 [모의 SW 역량테스트] 숫자 만들기 -> https://hwayomingdlog.tistory.com/185
 
-SWEA5650 [모의 SW 역량테스트] 핀볼 게임 -> 
+SWEA5650 [모의 SW 역량테스트] 핀볼 게임 -> https://hwayomingdlog.tistory.com/186
