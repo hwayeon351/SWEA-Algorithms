@@ -35,4 +35,4 @@ SWEA4008 [모의 SW 역량테스트] 숫자 만들기 -> https://hwayomingdlog.t
 
 SWEA5650 [모의 SW 역량테스트] 핀볼 게임 -> https://hwayomingdlog.tistory.com/186
 
-SWEA2105 [모의 SW 역량테스트] 디저트 카페 -> 
+SWEA2105 [모의 SW 역량테스트] 디저트 카페 -> https://hwayomingdlog.tistory.com/187
