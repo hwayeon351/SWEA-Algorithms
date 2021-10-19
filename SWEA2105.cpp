@@ -15,7 +15,6 @@ int desert[21][21] = {0, };
 int visit[101] = {0, };
 int dx[4] = {-1, 1, 1, -1};
 int dy[4] = {1, 1, -1, -1};
-vector<int> routes;
 
 int max_deserts = -1;
 
