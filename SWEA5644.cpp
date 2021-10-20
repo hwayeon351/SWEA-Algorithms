@@ -18,7 +18,6 @@ int dy[5] = {0, -1, 0, 1, 0};
 struct User{
     int x;
     int y;
-    int battery = {0, };
     int dir[100] = {0, };
 };
 struct BatteryCharger{
