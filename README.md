@@ -38,3 +38,5 @@ SWEA5650 [모의 SW 역량테스트] 핀볼 게임 -> https://hwayomingdlog.tist
 SWEA2105 [모의 SW 역량테스트] 디저트 카페 -> https://hwayomingdlog.tistory.com/187
 
 SWEA2477 [모의 SW 역량테스트] 차량 정비소 -> https://hwayomingdlog.tistory.com/188
+
+SWEA2383 [모의 SW 역량테스트] 점심 식사시간 -> 
