@@ -42,3 +42,5 @@ SWEA2477 [모의 SW 역량테스트] 차량 정비소 -> https://hwayomingdlog.t
 SWEA2383 [모의 SW 역량테스트] 점심 식사시간 -> https://hwayomingdlog.tistory.com/190
 
 SWEA5644 [모의 SW 역량테스트] 무선 충전 -> https://hwayomingdlog.tistory.com/191
+
+SWEA2117 [모의 SW 역량테스트] 홈 방범 서비스 -> 
