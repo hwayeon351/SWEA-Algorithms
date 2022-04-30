@@ -46,3 +46,5 @@ SWEA5644 [모의 SW 역량테스트] 무선 충전 -> https://hwayomingdlog.tist
 SWEA2117 [모의 SW 역량테스트] 홈 방범 서비스 -> https://hwayomingdlog.tistory.com/192
 
 SWEA5648 [모의 SW 역량테스트] 원자 소멸 시뮬레이션 -> https://hwayomingdlog.tistory.com/194
+
+SWEA1949 [모의 SW 역량테스트] 등산로 조성 -> 
